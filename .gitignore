@@ -1,0 +1,9 @@
+# Excel lock/temp files
+~$*.xlsx
+*.tmp
+# macOS
+.DS_Store
+# Python
+__pycache__/
+*.pyc
+.venv/
